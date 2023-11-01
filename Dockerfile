@@ -1,4 +1,4 @@
-FROM node:18
+FROM ubuntu:latest
 
 WORKDIR /opt/app
 
